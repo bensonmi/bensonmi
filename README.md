@@ -1,5 +1,5 @@
 <picture>
- <img src="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <img src="images/image_tardis.png">
 </picture>
 
 <!--
