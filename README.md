@@ -1,4 +1,6 @@
-### Hi there 👋
+<picture>
+ <img src="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
 
 <!--
 **bensonmi/bensonmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
