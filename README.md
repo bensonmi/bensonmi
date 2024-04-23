@@ -1,5 +1,5 @@
 <picture>
- <img src="images/image_tardis.png" width="100">
+ <img src="images/Tardis.png" width="100">
 </picture>
 
 <!--
