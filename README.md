@@ -17,8 +17,13 @@
 ## Contact
 Michael Benson
 
+<details>
+<summary>Colapsable</summary>
+
 :desktop_computer:
 | col1 | col2 | col3 |
 |---|---|---|
 | c1r1 | c2r1 | c3r1 |
 | c1r2 | c2r2 | c3r2 |
+
+</details>
