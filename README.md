@@ -18,7 +18,7 @@
 Michael Benson
 
 <details>
-<summary>Colapsable</summary>
+<summary>collapsible</summary>
 
 :desktop_computer:
 | col1 | col2 | col3 |
